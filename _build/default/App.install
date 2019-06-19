@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/App/META" {"META"}
+  "_build/install/default/lib/App/dune-package" {"dune-package"}
+  "_build/install/default/lib/App/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/App" {"App"}
+]
+doc: [
+  "_build/install/default/doc/App/README.md"
+]
